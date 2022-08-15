@@ -1,0 +1,18 @@
+baseURL : "https://alecstuarteastman.com/"
+languageCode: "en-us"
+title : "Alec Stuart Eastman"
+theme : "PaperMod"
+
+params:
+    profileMode:
+        enabled: true
+        title: "" 
+        subtitle: "Software engineer from Berlin, Germany"
+        imageUrl: "profile_pic.png" 
+        imageWidth: 120 
+        imageHeight: 120 
+        buttons:
+            - name: Projects
+              url: "/archive"
+            - name: Github
+              url: "https://github.com/alecmalloc"
