@@ -6,7 +6,7 @@ theme : "PaperMod"
 params:
     profileMode:
         enabled: true
-        title: "Hi, I'm Alec" 
+        title: "hi, I'm Alec" 
         subtitle: "A software engineer from Berlin, Germany"
         imageUrl: "profile_pic.png" 
         imageWidth: 120 
