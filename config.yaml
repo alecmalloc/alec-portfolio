@@ -1,7 +1,7 @@
 baseURL : "https://alecstuarteastman.com/"
 languageCode: "en-us"
 title : "A.S.E."
-theme : "PaperMod"
+theme : "papermod_edit"
 
 params:
     profileMode:

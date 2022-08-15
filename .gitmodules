@@ -1,4 +1,3 @@
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
-	ignore = dirty
+[submodule "papermod_edit"]
+	path = papermod_edit
+	url = https://github.com/alecmalloc/papermod_edit.git
