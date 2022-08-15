@@ -1,13 +1,13 @@
 baseURL : "https://alecstuarteastman.com/"
 languageCode: "en-us"
-title : "Alec Stuart Eastman"
+title : "A.S.E."
 theme : "PaperMod"
 
 params:
     profileMode:
         enabled: true
-        title: "Hi, I'm Alec" 
-        subtitle: "A software engineer living in Berlin, Germany."
+        title: "Hi, I'm Alec 👋" 
+        subtitle: "A software engineer living and studying in Berlin, Germany."
         imageUrl: "profile_pic.png" 
         imageWidth: 120 
         imageHeight: 120 
