@@ -7,12 +7,17 @@ params:
     profileMode:
         enabled: true
         title: "Hi, I'm Alec 👋" 
-        subtitle: "A software engineer living and studying in Berlin, Germany."
+        subtitle: "Part-time Blockchain and Crypto Analyst. Full time lover of all things software."
         imageUrl: "profile_pic.png" 
         imageWidth: 120 
         imageHeight: 120 
         buttons:
             - name: Projects
               url: "/archives"
-            - name: Github
+        socialIcons:
+            - name: github
               url: "https://github.com/alecmalloc"
+            - name: twitter
+              url: "https://twitter.com/"
+            - name: stackoverflow
+              url: "https://stackoverflow.com"
