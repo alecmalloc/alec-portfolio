@@ -14,10 +14,5 @@ params:
         buttons:
             - name: Projects
               url: "/archives"
-        socialIcons:
-            - name: github
+            - name: Github
               url: "https://github.com/alecmalloc"
-            - name: twitter
-              url: "https://twitter.com/"
-            - name: stackoverflow
-              url: "https://stackoverflow.com"
