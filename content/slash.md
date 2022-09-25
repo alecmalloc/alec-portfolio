@@ -1,0 +1,4 @@
+---
+title: "Slash"
+layout: staticpage
+---

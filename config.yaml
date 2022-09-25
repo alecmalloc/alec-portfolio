@@ -6,13 +6,8 @@ theme : "papermod_edit"
 params:
     profileMode:
         enabled: true
-        title: "Hi, I'm Alec 👋" 
-        subtitle: "Part-time Blockchain and Crypto Analyst. Full time lover of all things software."
-        imageUrl: "profile_pic.png" 
-        imageWidth: 120 
-        imageHeight: 120 
+        title: "Welcome to our Slash Project" 
+        subtitle: "Please click the button below to proceed to our project page:"
         buttons:
-            - name: Projects
-              url: "/archives"
-            - name: Github
-              url: "https://github.com/alecmalloc"
+            - name: RidOf
+              url: "https://lol.com"

@@ -1,0 +1,18 @@
+baseURL : "https://alecstuarteastman.com/"
+languageCode: "en-us"
+title : "A.S.E."
+theme : "papermod_edit"
+
+params:
+    profileMode:
+        enabled: true
+        title: "Hi, I'm Alec 👋" 
+        subtitle: "Part-time Blockchain and Crypto Analyst. Full time lover of all things software."
+        imageUrl: "profile_pic.png" 
+        imageWidth: 120 
+        imageHeight: 120 
+        buttons:
+            - name: Projects
+              url: "/archives"
+            - name: Github
+              url: "https://github.com/alecmalloc"
